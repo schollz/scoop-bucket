@@ -1,0 +1,22 @@
+{
+    "version": "6.0.4",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/schollz/croc/releases/download/v6.0.4/croc_6.0.4_Windows-32bit.zip",
+            "bin": [
+                "croc.exe"
+            ],
+            "hash": "7bc6d95fa8f6ffab854002ebb5f860b4a25c22b335887ebe4188356d3f5bf1f3"
+        },
+        "64bit": {
+            "url": "https://github.com/schollz/croc/releases/download/v6.0.4/croc_6.0.4_Windows-64bit.zip",
+            "bin": [
+                "croc.exe"
+            ],
+            "hash": "c3addd96ffc5a1f1dd0acc5fbffdc87aa274053b9796daa314a018608d97c56c"
+        }
+    },
+    "homepage": "https://schollz.com/software/croc/",
+    "license": "MIT",
+    "description": "croc is a tool that allows any two computers to simply and securely transfer files and folders."
+}
