@@ -1,0 +1,15 @@
+{
+    "version": "1.0.5",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/schollz/squirrel/releases/download/v1.0.5/squirrel_1.0.5_windows-64bit.zip",
+            "bin": [
+                "squirrel.exe"
+            ],
+            "hash": "21d8663545a46e0cd3231549912212a506db25f95a8a5ba215bd5300e8e28107"
+        }
+    },
+    "homepage": "https://schollz.com/software/squirrel/",
+    "license": "MIT",
+    "description": "squirrel downloads URLs to a SQLite database."
+}
