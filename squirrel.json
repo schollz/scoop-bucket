@@ -1,12 +1,12 @@
 {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/schollz/squirrel/releases/download/v1.0.5/squirrel_1.0.5_windows-64bit.zip",
+            "url": "https://github.com/schollz/squirrel/releases/download/v1.0.6/squirrel_1.0.6_windows-64bit.zip",
             "bin": [
                 "squirrel.exe"
             ],
-            "hash": "21d8663545a46e0cd3231549912212a506db25f95a8a5ba215bd5300e8e28107"
+            "hash": "711eca3a7c74cd7c3a5b34e88daa5cd77ef82b598abb746e55369cc8e029e534"
         }
     },
     "homepage": "https://schollz.com/software/squirrel/",
