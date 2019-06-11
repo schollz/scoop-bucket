@@ -1,19 +1,19 @@
 {
-    "version": "6.0.6",
+    "version": "6.0.8",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/schollz/croc/releases/download/v6.0.6/croc_6.0.6_Windows-32bit.zip",
+            "url": "https://github.com/schollz/croc/releases/download/v6.0.8/croc_6.0.8_Windows-32bit.zip",
             "bin": [
                 "croc.exe"
             ],
-            "hash": "1720893f77cc3f9e8ae3a666d12122795e2caffcea27d3b7f9f870bafcdd32b1"
+            "hash": "03d829f8e6cea03ae1a9df5f10675f54b8c6c4738b00a77bc9f9315ee06c67b0"
         },
         "64bit": {
-            "url": "https://github.com/schollz/croc/releases/download/v6.0.6/croc_6.0.6_Windows-64bit.zip",
+            "url": "https://github.com/schollz/croc/releases/download/v6.0.8/croc_6.0.8_Windows-64bit.zip",
             "bin": [
                 "croc.exe"
             ],
-            "hash": "8c94e101ec234c2c285e03f1fa6638cf928377c36d404daa1971290ea28f75de"
+            "hash": "168900a672f01490663c9bb4b0009b758a263c77b1c73e0f5dd08a8a5c3c4a5a"
         }
     },
     "homepage": "https://schollz.com/software/croc/",
