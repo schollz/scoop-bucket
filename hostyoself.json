@@ -1,0 +1,22 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/schollz/hostyoself/releases/download/v0.0.1/hostyoself_0.0.1_Windows-32bit.zip",
+            "bin": [
+                "hostyoself.exe"
+            ],
+            "hash": "31f42d98e470943539a6cf3143f0d6c9cd549a28ea080d9eeb2f1f32a0c952f7"
+        },
+        "64bit": {
+            "url": "https://github.com/schollz/hostyoself/releases/download/v0.0.1/hostyoself_0.0.1_Windows-64bit.zip",
+            "bin": [
+                "hostyoself.exe"
+            ],
+            "hash": "3b9c45e66077e3b981b90df64fa5694478e440b68253f509df65c03fd63659a3"
+        }
+    },
+    "homepage": "https://schollz.com/software/hostyoself/",
+    "license": "MIT",
+    "description": "hostyoself lets you host your files using websockets from the command line or a browser."
+}
