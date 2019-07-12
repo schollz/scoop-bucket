@@ -1,19 +1,19 @@
 {
-    "version": "0.0.2",
+    "version": "0.0.3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/schollz/hostyoself/releases/download/v0.0.2/hostyoself_0.0.2_Windows-32bit.zip",
+            "url": "https://github.com/schollz/hostyoself/releases/download/v0.0.3/hostyoself_0.0.3_Windows-32bit.zip",
             "bin": [
                 "hostyoself.exe"
             ],
-            "hash": "1acc0584f1a4f962a8b1ba1088b40076a88f92b5aaa34b28d0c8279f9966141f"
+            "hash": "23801fb66241e4d18e8c1f1912ca2eecf725ff61a1838b18211d630f175b40f8"
         },
         "64bit": {
-            "url": "https://github.com/schollz/hostyoself/releases/download/v0.0.2/hostyoself_0.0.2_Windows-64bit.zip",
+            "url": "https://github.com/schollz/hostyoself/releases/download/v0.0.3/hostyoself_0.0.3_Windows-64bit.zip",
             "bin": [
                 "hostyoself.exe"
             ],
-            "hash": "76863a196db0551427502215b8eb8eb56e3b25b78753f35f47be8da89a538df6"
+            "hash": "a5b6805fd7447bc895c21ddf019728b89c80bec0efd43080b504aa57385cb103"
         }
     },
     "homepage": "https://schollz.com/software/hostyoself/",
