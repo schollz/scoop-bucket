@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/schollz/zget/releases/download/v1.0.0/zget_1.0.0_Windows-32bit.zip",
+            "bin": [
+                "zget.exe"
+            ],
+            "hash": "cbc1cdfb98fe7a1774843a72b52075bc7ac1ceb91b1e694985bafdabccc7db63"
+        },
+        "64bit": {
+            "url": "https://github.com/schollz/zget/releases/download/v1.0.0/zget_1.0.0_Windows-64bit.zip",
+            "bin": [
+                "zget.exe"
+            ],
+            "hash": "749f386efe02c4d557755881da1d1f095e1dde3a325047356ce3807f211e5aa2"
+        }
+    },
+    "homepage": "https://schollz.com/software/zget/",
+    "license": "MIT",
+    "description": "zget is a tool that allows any two computers to simply and securely transfer files and folders."
+}
