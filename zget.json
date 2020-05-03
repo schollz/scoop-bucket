@@ -1,19 +1,19 @@
 {
-    "version": "1.1.5",
+    "version": "1.1.6",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/schollz/zget/releases/download/v1.1.5/zget_1.1.5_Windows-32bit.zip",
+            "url": "https://github.com/schollz/zget/releases/download/v1.1.6/zget_1.1.6_Windows-32bit.zip",
             "bin": [
                 "zget.exe"
             ],
-            "hash": "eb5560851703bc7d3300d40c2105fe8e807adbe49c415b5ddfd8d187818ee281"
+            "hash": "b24a93ae70d3208efedc21e106b042de23b624b877de4e4e140feadef2709475"
         },
         "64bit": {
-            "url": "https://github.com/schollz/zget/releases/download/v1.1.5/zget_1.1.5_Windows-64bit.zip",
+            "url": "https://github.com/schollz/zget/releases/download/v1.1.6/zget_1.1.6_Windows-64bit.zip",
             "bin": [
                 "zget.exe"
             ],
-            "hash": "034bf3c651da73c1353b8821df5d39c4fda077d8beb31106a83430c0bcd1a581"
+            "hash": "df9ab94e1413bd86d4d9aaa3e335d5bba18b849f53bdabe67b85c2e87e9a356f"
         }
     },
     "homepage": "https://schollz.com/software/zget/",
