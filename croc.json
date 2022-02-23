@@ -6,14 +6,14 @@
             "bin": [
                 "croc.exe"
             ],
-            "hash": "a92dde17ca09168d7fa4acd9190ce38eda37578c02379ec6acd4e6a121facbd0"
+            "hash": "613aac800e8f1b7f80f4c89acf211cdf5c07f591a13474fbb5595cfd5ba75b72"
         },
         "64bit": {
             "url": "https://github.com/schollz/croc/releases/download/v9.5.2/croc_9.5.2_Windows-64bit.zip",
             "bin": [
                 "croc.exe"
             ],
-            "hash": "72fb79fe222155e86b33dfadb497c1664c884494f876b7c18d1056c0a370d664"
+            "hash": "73d015e3d185f30447fe328b31833b0c076ab3f6e39146aa651246bf3b885c8a"
         }
     },
     "homepage": "https://schollz.com/software/croc/",
